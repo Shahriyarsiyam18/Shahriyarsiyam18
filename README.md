@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahriyarsiyam18
 - 👀 I’m interested in coading,ui editing
-- 🌱 I’m currently learning c
+- 🌱 I’ve learned C and currently working with C++,Machine Learning
 - 💞️ I’m looking to collaborate on some intern projects
 - 📫 How to reach me shahriyarsiyam18@gmail.com
 
