@@ -58,6 +58,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shahriyarsiyam18&icon=9&color=12" alt="Profile Visit Counter"/>
-</p>
