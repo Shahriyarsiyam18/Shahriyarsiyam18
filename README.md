@@ -1,5 +1,7 @@
 # 💫 About Me:
-VoteNow & Micro Expense manager App
+I'm studying CSE in BAUST.
+This is my level-3 term I semester.
+Currently Working on 2 Projects(VoteNow & Micro Expense manager App)
 
 
 ## 🌐 Socials:
