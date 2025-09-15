@@ -1,6 +1,7 @@
 # 👨‍💻 About Me
 🎓 Studying **CSE at BAUST**  
 📚 Currently in **Level-3 Term-I Semester**  
+
 🚀 Working on **2 Projects**:  
    - 🗳️ *VoteNow* (Online Voting App)  
    - 💰 *Micro Expense Manager App*  
@@ -44,9 +45,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Shahriyarsiyam18&theme=dark&hide_border=false" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyarsiyam18&theme=dark&hide_border=false&layout=compact" height="150"/>
-</p>
 
 ---
 
